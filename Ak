@@ -1,0 +1,8 @@
+ZongoAkim/
+├── package.json
+├── public/
+├── src/  (ou pages/ si c’est du Next.js)
+├── .gitignore
+├── README.md
+├── vite.config.js (si React+Vite)
+└── next.config.js (si Next.js)
